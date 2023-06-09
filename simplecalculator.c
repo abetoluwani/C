@@ -12,7 +12,7 @@ int main()
     float answer;
 
 
-    printf("Enter calculation:\n");
+    printf("Enter calculation: ");
     scanf("%f %c %f", &valueOne, &operator, & valueTwo);
 
     switch(operator)
